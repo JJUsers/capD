@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">capD</string>
+
+    <!--    디자인할때 표시할 디폴트 글자    -->
+    <string name="default_text">-</string>
+
+    <!--    Title    -->
+    <string name="title_station_select">정류장선택</string>
+    <string name="title_bus_list">버스목록</string>
+    <string name="title_bus_info">버스정보</string>
+
+    <!--    Message    -->
+    <string name="msg_start_station_empty">출발정류장이 없습니다.</string>
+    <string name="msg_arrival_station_empty">도착정류장이 없습니다.</string>
+    <string name="msg_start_station_select_empty">출발정류장을 선택하세요.</string>
+    <string name="msg_arrival_station_select_empty">도착정류장을 선택하세요.</string>
+    <string name="msg_start_station_via_bus_empty">출발정류장을 경유하는 노선이 없습니다.</string>
+    <string name="msg_arrival_station_via_bus_empty">도착정류장을 경유하는 노선이 없습니다.</string>
+    <string name="msg_error">일시적인 장애가 발생했습니다.</string>
+
+</resources>
